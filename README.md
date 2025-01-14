@@ -18,7 +18,11 @@ Here are some useful links:
 - [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - [LeetCode](https://leetcode.com/u/Prathamesh_Jadhav3011/)
 
----
+  ## Contact
 
-Happy Coding and Learning! 🚀
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
 
